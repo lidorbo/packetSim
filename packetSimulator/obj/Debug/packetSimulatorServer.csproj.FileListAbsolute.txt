@@ -1,0 +1,7 @@
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\bin\Debug\packetSimulator.exe.config
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\bin\Debug\packetSimulator.exe
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\bin\Debug\packetSimulator.pdb
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\obj\Debug\packetSimulator.Properties.Resources.resources
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\obj\Debug\packetSimulatorServer.csproj.GenerateResource.Cache
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\obj\Debug\packetSimulator.exe
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulator\obj\Debug\packetSimulator.pdb

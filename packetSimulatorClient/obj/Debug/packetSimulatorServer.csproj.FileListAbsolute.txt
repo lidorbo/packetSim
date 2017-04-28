@@ -1,0 +1,9 @@
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\bin\Debug\packetSimulatorClient.exe.config
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\bin\Debug\packetSimulatorClient.exe
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\bin\Debug\packetSimulatorClient.pdb
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorClient.Main.resources
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorClient.Properties.Resources.resources
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorServer.csproj.GenerateResource.Cache
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorClient.exe
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorClient.pdb
+c:\users\lidor\documents\visual studio 2013\Projects\packetSimulator\packetSimulatorClient\obj\Debug\packetSimulatorServer.csprojResolveAssemblyReference.cache
